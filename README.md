@@ -1,6 +1,8 @@
 # 120minutes
 120 Minutes Archive
-| Sunday | Episide | Playlist | Notes | | | | |
+
+| Sunday | Episide | Playlist | Notes | 
+| ------- | -------- | --------- | ------ |
 | January 1, 1986 | | | |
 | January 8, 1986 | | | |
 | January 15, 1986 | | | |
@@ -735,4 +737,3 @@
 | January 5, 2000 | | | |
 | January 12, 2000 | | | |
 | January 19, 2000 | | | |
- | | | |
