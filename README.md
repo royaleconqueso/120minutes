@@ -248,7 +248,7 @@
 |August 26, 1990 | | | |
 |September 2, 1990 | | | |
 |September 9, 1990 | | | |
-|September 16, 1990 | https://archive.org/details/120_Minutes_And_Post_Modern_MTV_1990-09 | https://120minutes.tylerc.com/1990/#091690 |  |
+|September 16, 1990 | https://archive.org/details/120_Minutes_And_Post_Modern_MTV_1990-09 | https://120minutes.tylerc.com/1990/#091690 | Interview with Sonic Youth |
 |September 23, 1990 | | | |
 |September 30, 1990 | | | |
 |October 7, 1990 | | | |
