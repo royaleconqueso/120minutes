@@ -184,7 +184,7 @@
 |June 4, 1989 | | | |
 |June 11, 1989 | | | |
 |June 18, 1989 | | | |
-|June 25, 1989 | | | |
+|June 25, 1989 | https://archive.org/details/120MinutesJune1989 | https://120minutes.tylerc.com/1989/#062589 | Alternative Rock blocks,  |
 |July 2, 1989 | | | |
 |July 9, 1989 | | | |
 |July 16, 1989 | | | |
@@ -201,7 +201,7 @@
 |October 1, 1989 | | | |
 |October 8, 1989 | | | |
 |October 15, 1989 | | | |
-|October 22, 1989 | | | |
+|October 22, 1989 | https://archive.org/details/120MinutesOctober1989 | https://120minutes.tylerc.com/1989/#102389 | An interview with John Lydon |
 |October 29, 1989 | | | |
 |November 5, 1989 | | | |
 |November 12, 1989 | | | |
@@ -248,7 +248,7 @@
 |August 26, 1990 | | | |
 |September 2, 1990 | | | |
 |September 9, 1990 | | | |
-|September 16, 1990 | | | |
+|September 16, 1990 | https://archive.org/details/120_Minutes_And_Post_Modern_MTV_1990-09 | https://120minutes.tylerc.com/1990/#091690 |  |
 |September 23, 1990 | | | |
 |September 30, 1990 | | | |
 |October 7, 1990 | | | |
@@ -612,7 +612,7 @@
 |August 17, 1997 | | | |
 |August 24, 1997 | | | |
 |August 31, 1997 | | | |
-|September 7, 1997 | | | |
+|September 7, 1997 | https://archive.org/details/120MinsSneakerPimps | https://120minutes.tylerc.com/1997/#090797 | Hosted by the Sneaker Pimps |
 |September 14, 1997 | | | |
 |September 21, 1997 | | | |
 |September 28, 1997 | | | |
