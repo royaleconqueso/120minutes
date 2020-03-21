@@ -109,7 +109,7 @@
 |December 27, 1987 | | | |
 |January 3, 1988 | | | |
 |January 10, 1988 | | | |
-|January 17, 1988 | | | |
+|January 17, 1988 | https://archive.org/details/120MinutesJanuary1988 | https://120minutes.tylerc.com/1988/#011788 | Interview with Joe Strummer and world premier of Trash City |
 |January 24, 1988 | | | |
 |January 31, 1988 | | | |
 |February 7, 1988 | | | |
