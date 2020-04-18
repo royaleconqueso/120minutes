@@ -230,7 +230,7 @@
 |April 22, 1990 | | | |
 |April 29, 1990 | | | |
 |May 6, 1990 | | | |
-|May 13, 1990 | | | |
+|May 13, 1990 | https://archive.org/details/120_Minutes_MTV_WOC_1990-05-13 | https://120minutes.tylerc.com/1990/#051390 | 30 minute Sinead O'Connor Extravaganza|
 |May 20, 1990 | | | |
 |May 27, 1990 | | | |
 |June 3, 1990 | | | |
