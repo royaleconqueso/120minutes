@@ -258,7 +258,7 @@
 |November 4, 1990 | | | |
 |November 11, 1990 | | | |
 |November 18, 1990 | | | |
-|November 25, 1990 | | | |
+|November 25, 1990 | https://archive.org/details/120_Minutes_MTV_WOC_1990-11-23 | https://120minutes.tylerc.com/1990/#112590 | Interview with John Lydon |
 |December 2, 1990 | | | |
 |December 9, 1990 | | | |
 |December 16, 1990 | | | |
