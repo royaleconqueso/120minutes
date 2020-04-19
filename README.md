@@ -419,7 +419,7 @@
 |December 5, 1993 | | | |
 |December 12, 1993 | | | |
 |December 19, 1993 | | | |
-|December 26, 1993 | | | |
+|December 26, 1993 | https://www.youtube.com/watch?v=-17PT-NJpF0 | https://120minutes.tylerc.com/1993/#122693 | All live best of 1993 performances |
 |January 2, 1994 | | | |
 |January 9, 1994 | | | |
 |January 16, 1994 | | | |
