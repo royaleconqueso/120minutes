@@ -333,7 +333,7 @@
 |April 12, 1992 | | | |
 |April 19, 1992 | | | |
 |April 26, 1992 | | | |
-|May 3, 1992 | | | |
+|May 3, 1992 | https://www.youtube.com/watch?v=HqoFNiqr-1Y | https://120minutes.tylerc.com/1992/#050392 | Short concert and interview with Peter Murphy |
 |May 10, 1992 | | | |
 |May 17, 1992 | | | |
 |May 24, 1992 | | | |
