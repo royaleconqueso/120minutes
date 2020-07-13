@@ -3,6 +3,7 @@
 
 | Sunday | Episide | Playlist | Notes |  
 | ------- | -------- | --------- | ------ | 
+|August 1, 1981 | https://archive.org/details/1981.08.01_MTV_First_Four_Hours_12am_Saturday_August_1st_1981 | | |
 |January 5, 1986 | | | |
 |January 12, 1986 | | | |
 |January 19, 1986 | | | |
