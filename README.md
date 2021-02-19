@@ -696,7 +696,7 @@
 |March 21, 1999 | | | |
 |March 28, 1999 | | | |
 |April 4, 1999 | | | |
-|April 11, 1999 | https://archive.org/details/1999.04.11-mtv-120-minutes-with-host-dave-holmes-with-guest-harvey-danger-blur-april-11th-1999 | https://archive.org/details/1999.04.11-mtv-120-minutes-with-host-dave-holmes-with-guest-harvey-danger-blur-april-11th-1999 | Harvey Danger and Blur |
+|April 11, 1999 | https://archive.org/details/1999.04.11-mtv-120-minutes-with-host-dave-holmes-with-guest-harvey-danger-blur-april-11th-1999 | https://120minutes.tylerc.com/1999/#040499 | Harvey Danger and Blur |
 |April 18, 1999 | | | |
 |April 25, 1999 | | | |
 |May 2, 1999 | | | |
