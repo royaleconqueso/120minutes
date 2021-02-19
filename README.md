@@ -263,7 +263,7 @@
 |December 2, 1990 | | | |
 |December 9, 1990 | | | |
 |December 16, 1990 | | | |
-|December 23, 1990 | | | |
+|December 23, 1990 | https://archive.org/details/19901104-Cure-MTV-120-minutes-special | https://120minutes.tylerc.com/1990/#122390 | Hosted by Robert Smith |
 |December 30, 1990 | | | |
 |January 6, 1991 | | | |
 |January 13, 1991 | | | |
