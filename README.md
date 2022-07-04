@@ -331,7 +331,7 @@
 |March 22, 1992 | | | |
 |March 29, 1992 | | | |
 |April 5, 1992 | | | |
-|April 12, 1992 | | | |
+|April 12, 1992 | https://archive.org/details/120_Minutes_MTV_WOC_Incomplete_1992-04-12 | https://120minutes.org/1992/#041292 | KMFDM |
 |April 19, 1992 | | | |
 |April 26, 1992 | | | |
 |May 3, 1992 | https://www.youtube.com/watch?v=HqoFNiqr-1Y | https://120minutes.tylerc.com/1992/#050392 | Short concert and interview with Peter Murphy |
@@ -353,7 +353,7 @@
 |August 23, 1992 | | | |
 |August 30, 1992 | | | |
 |September 6, 1992 | | | |
-|September 13, 1992 | | | |
+|September 13, 1992 |  | | |
 |September 20, 1992 | | | |
 |September 27, 1992 | | | |
 |October 4, 1992 | | | |
