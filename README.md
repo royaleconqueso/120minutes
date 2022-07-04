@@ -511,7 +511,7 @@
 |September 3, 1995 | | | |
 |September 10, 1995 | | | |
 |September 17, 1995 | | | |
-|September 24, 1995 | | | |
+|September 24, 1995 | https://archive.org/details/120Minutes_BlindMellon10Mins-MTV | https://120minutes.org/1995/#092495 | Blind Mellon |
 |October 1, 1995 | | | |
 |October 8, 1995 | | | |
 |October 15, 1995 | | | |
