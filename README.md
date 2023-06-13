@@ -529,7 +529,7 @@
 |January 7, 1996 | | | |
 |January 14, 1996 | | | |
 |January 21, 1996 | | | |
-|January 28, 1996 | | | |
+|January 28, 1996 | https://www.youtube.com/watch?v=O0lNN-OcPdc | https://120minutes.org/1996/#012896 | Live Performance Episode |
 |February 4, 1996 | | | |
 |February 11, 1996 | | | |
 |February 18, 1996 | | | |
