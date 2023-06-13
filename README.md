@@ -658,7 +658,7 @@
 |June 28, 1998 | | | |
 |July 5, 1998 | | | |
 |July 12, 1998 | | | |
-|July 19, 1998 | | | |
+|July 19, 1998 | https://www.youtube.com/watch?v=6lqzYCWccTQ | https://120minutes.org/1998/#071298 | Harvey Danger |
 |July 26, 1998 | | | |
 |August 2, 1998 | | | |
 |August 9, 1998 | | | |
